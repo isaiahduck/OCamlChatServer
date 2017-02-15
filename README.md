@@ -1,3 +1,3 @@
 # OCamlChatServer
 
-REFER TO DESIGN.pdf 
+Please refer to DESIGN.pdf 

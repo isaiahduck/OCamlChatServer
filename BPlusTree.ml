@@ -260,7 +260,4 @@ let add_message btree key new_value =
         let new_root_arr = Array.make idx_size None in
         let () = Array.set new_root_arr 1 (Some (k, btree')) in
         let () = Array.set new_root_arr 0 (Some ((-1), btree)) in
-        Index (new_root_arr)
-
-
-  
+        Index (new_root_arr)  

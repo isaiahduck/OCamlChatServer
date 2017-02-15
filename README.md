@@ -1,2 +1,3 @@
 # OCamlChatServer
-Messaging chat server in pure OCaml
+
+REFER TO DESIGN.pdf 
